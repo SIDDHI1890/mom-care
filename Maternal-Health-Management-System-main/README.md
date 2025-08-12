@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Mom Care: Intelligent Monitoring and Personalized Guidance for Pregnant Women
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![React](https://img.shields.io/badge/Frontend-React.js-61DAFB?logo=react)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js)](https://nodejs.org/)
+[![Firebase](https://img.shields.io/badge/Database-Firebase-FFCA28?logo=firebase)](https://firebase.google.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/SIDDHI1890/mom-care?style=social)](https://github.com/SIDDHI1890/mom-care/stargazers)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 Project Overview
+**Mom Care** is an Android-based health monitoring application designed to provide pregnant women with intelligent guidance and real-time health tracking.  
+The system integrates AI for sonography analysis, personalized diet and exercise plans, and emergency alert mechanisms.  
+It ensures maternal health and well-being through an easy-to-use mobile interface.
 
-### `npm start`
+This project was developed as a **Final Year Engineering Project** and is sponsored by **Veritechra Infotech LLP**.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✨ Features
+- **User Dashboard** – Centralized view of maternal health data.  
+- **Health Monitoring** – Track vital signs and pregnancy milestones.  
+- **AI Sonography Analysis** – Assist doctors and mothers in early detection of anomalies.  
+- **Personalized Guidance** – Tailored diet and exercise plans for each trimester.  
+- **Emergency Alerts** – Notify family and healthcare providers in case of abnormal health readings.  
+- **Cloud Integration** – Secure data storage and access from anywhere.  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tech Stack
+- **Frontend:** React.js, HTML, CSS  
+- **Backend:** Node.js  
+- **Database:** Firebase  
+- **IDE:** Visual Studio Code  
+- **Other Tools:** AI models for image analysis  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📂 Folder Structure
+Maternal-Health-Management-System-main/
+│── public/ # Static files and assets
+│── src/ # React source code
+│── package.json # Node.js dependencies
+│── .gitignore # Ignored files for Git
+│── README.md # Documentation
